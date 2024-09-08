@@ -3,7 +3,8 @@
 public class Main {
     public static void main(String[] argv) {
         System.out.println("Hello world");
-        System.out.println("Вітаю, мене звати Віталій Мороз, і я навчаюсь в групі ПЗ-21-1/9");
+        System.out.println("Віталій Мороз, група ПЗ-21-1/9");
+        System.out.println("Це моя перша лабораторна робота на Java");
     }
 }
 
